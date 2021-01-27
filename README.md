@@ -1,2 +1,2 @@
-# Boot
+# Bootstrap
 Created with CodeSandbox
